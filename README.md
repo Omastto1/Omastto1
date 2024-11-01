@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Omastto1, or Tom.
-- 👀 I’m interested in Data Science and Open-Source Development
-- 🌱 In the near future I am going to search for possibilities on how to predict harvest size
-- 💞️ I’m looking to collaborate on Julia packages
-- 📫 Feel free to reach out to me through tomom@email.cz
+For the past 3 years I have been delivering custom data projects. From web scraping through data transformation to data visualization. Currently, I am in charge of small team consisting of data engineers and data validators.
 
 <!---
 Omastto1/Omastto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
